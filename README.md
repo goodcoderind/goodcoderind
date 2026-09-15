@@ -1,8 +1,8 @@
 # Abhra Kanti Dubey
 
-I build AI applications, web products, and evaluation pipelines. I'm studying **B.Sc. Artificial Intelligence (Engineering track) at MBZUAI**, with expected graduation in May 2029, and seeking **Summer 2027 internships in applied AI and software engineering**.
+I build AI applications, web products, and evaluation pipelines. I'm studying **B.Sc. Artificial Intelligence (Engineering track) at MBZUAI**, with expected graduation in May 2029.
 
-Previously, I built a research intelligence demo at **DIFC Innovation Hub** using Python, FastAPI, React, and PostgreSQL, with 97 passing workflow tests. I also founded **WasabiAI**, an AI education initiative reaching 30,000+ learners through workshops, content, and technical programs.
+I founded **WasabiAI**, an AI education initiative reaching 30,000+ learners through workshops, content, and technical programs.
 
 [LinkedIn](https://www.linkedin.com/in/abhradubey/) · [Email](mailto:abhra.dubey@mbzuai.ac.ae)
 
